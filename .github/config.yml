@@ -12,5 +12,6 @@ updateDocsWhiteList:
   - chore
 
 updateDocsTargetFiles:
+markdow:kramdown
   - README
   - docs/
