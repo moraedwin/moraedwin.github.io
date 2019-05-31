@@ -1,12 +1,13 @@
 ---
 version: 3.8.5
 min_ruby_version: 2.4.0
-name: Jekyll • Simple, blog-aware, static sites
-description: Transform your plain text into static websites and blogs
+name: edwin mora
+description: prueba de github
 url: https://jekyllrb.com
 repository: https://github.com/jekyll/jekyll
 timezone: America/Los_Angeles
 twitter:
+email: edwmora93@gmail.com
   username: jekyllrb
 logo: "/img/logo-2x.png"
 google_analytics_id: UA-50755011-1
