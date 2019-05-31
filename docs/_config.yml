@@ -47,6 +47,8 @@ plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 - jemoji
+markdow: kramdow
+highlighter: rouge
 
 feed:
   categories:
